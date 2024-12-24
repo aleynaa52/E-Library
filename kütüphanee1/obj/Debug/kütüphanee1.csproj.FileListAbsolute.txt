@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\bin\Debug\kütüphanee1.exe.config
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\bin\Debug\kütüphanee1.exe
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\bin\Debug\kütüphanee1.pdb
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.Form1.resources
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.Properties.Resources.resources
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\k_t_phan.864D070A.Up2Date
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.exe
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.pdb
+C:\Users\hp\OneDrive\Masaüstü\veri tabanı\kütüphanee1\obj\Debug\kütüphanee1.Form_User_Login.resources
